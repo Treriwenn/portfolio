@@ -1,0 +1,72 @@
+[
+    {
+      "id": "1",
+      "title": "Nina Carducci",
+      "cover": "ryoji-1920.webp",
+      "pictures": [
+        "ninacarducci1",
+        "ninacarducci2",
+        "ninacarducci3"
+      ],
+      "description": "Votre maison loin de chez vous. Que vous veniez de l'autre bout du monde, ou juste de quelques stations de RER, vous vous sentirez chez vous dans notre appartement.",
+      "tags": ["Sass", "Html", "Lighthouse"],
+      "link": "https://github.com/treriwen/nina-carducci"
+    },
+    {
+      "id": "2",
+      "title": "OhMyFood",
+      "cover": "HoMyFood.jpg",
+      "pictures": [
+        "HoMyFood1",
+        "HoMyFood2",
+        "HoMyFood3"
+        ],
+      "description": "Profitez du charme de la vie parisienne dans un magnifique appartement. A 3 minutes à pied du Canl Saint Martin, vous serez proche des transports, mais également de nombreux commerces. L'appartement est tout équipé, et possède également un parking pour ceux qui souhaitent se déplacer en voiture.",
+      "tags": ["Sass", "Html", "Figma"],
+      "link": "https://github.com/treriwen/Projet4OhMyFood"
+    },
+    {
+      "id": "3",
+      "title": "724Events",
+      "cover": "724Events.png",
+      "pictures": [
+        "724Events",
+        "724Events1",
+        "724Events2",
+        "724Events3"
+        ],
+      "description": "À seulement deux pas des Buttes Chaumont, venez découvrir Paris dans ce studio tout équipé. Entièrement équipé pour votre confort et élégamment décoré, il vous permettra de vivre comme un Parisien le temps de votre séjour.",
+      "tags": ["Sass", "React"],
+      "link": "https://github.com/treriwen/debug"
+    },
+    {
+      "id": "4",
+      "title": "sophie-bluel",
+      "cover": "sophie-bluel.png",
+      "pictures": [
+        "sophie-bluel",
+        "sophie-bluel1",
+        "sophie-bluel2"
+      ],
+      "description": "Venez découvrir Paris en séjournant dans ce nid douillet au coeur du 11ème. La vue sur le parc résidentiel saura vous reposer de vos longues journées de tourisme dans la capitale française. Et pour les plus fêtards d'entre vous, la rue Jean Pierre Timbaud vous permettra de découvrir la night-life parisienne à seulement 5 minutes de l'appartement.",
+      "subDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae tristique nunc. Nulla orci augue, mattis at mi ut, hendrerit gravida enim. Nulla tincidunt, orci in bibendum lacinia, justo mauris ultrices est, id semper libero orci id magna. Quisque fringilla et purus at imperdiet. In interdum turpis sapien. Proin vitae ipsum viverra nunc tempor tempus. Nulla laoreet interdum augue id mollis. Aliquam eu risus velit. In porttitor est nulla, eget ornare libero scelerisque non.",
+      "tags": ["Sass", "Html", "JavaScript"],
+      "link": "https://github.com/treriwen/final-shopie-portfolio"
+    },
+    {
+      "id": "5",
+      "title": "Dungeon-slayer",
+      "cover": "dungeon-slayer.png",
+      "pictures": [
+        "dungeon1",
+        "dungeon2",
+        "dungeon3",
+        "dungeon4"
+      ],
+      "description": "Dungeon slayer est un projet personnel, réalisé hors formation, qui met en avant mon envie de créer des jeux vidéos depuis longtemps. Ce projet fais en python avec la biblihoteque \"Pygame\" demandais de re-créer entierement un moteur de jeu ( pour l'affichage et l'update des images, le mouvement, les collisions... ). Il ma permit à la fois de me perfectionner dans mes connaissances python mais aussi de me plonger plus précisement sur la Programmation Orienté Objet",
+      "tags": ["Python", "Pygame", "Github", "GitKraken"],
+      "link": "https://github.com/treriwen/Dungeon-slayer",
+      "linkPage": "https://fr.legacy.reactjs.org/docs/conditional-rendering.html"
+    }
+  ]
+  

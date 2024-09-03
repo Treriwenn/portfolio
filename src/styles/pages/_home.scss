@@ -1,0 +1,28 @@
+.home{
+    .title-center{
+        text-align: center;
+        font-size: 40px;
+    }
+    &__section{
+        margin: 5%;
+        &__1{
+            display: flex;
+            gap: 80px;
+
+            align-items: center;
+
+
+            @media screen and (max-width: 1200px){
+               flex-direction: column;
+
+                .competence{
+                    max-width: unset;
+
+                    &__card{
+                        width: unset;
+                    }
+                }
+            }
+        }
+    }
+}
