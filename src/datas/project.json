@@ -8,8 +8,8 @@
         "ninacarducci2",
         "ninacarducci3"
       ],
-      "description": "Votre maison loin de chez vous. Que vous veniez de l'autre bout du monde, ou juste de quelques stations de RER, vous vous sentirez chez vous dans notre appartement.",
-      "tags": ["Sass", "Html", "Lighthouse"],
+      "description": "Le projet 9 du parcours intégrateur web de OpenClassrooms consistais à améliorer les performance et le référencement naturelle (seo) du site d'un client, ce projet permettais d'apprendre à utilisé \"Lighthouse\" et apprendre les bonnes méthodes d'optimisation et de référencement.",
+      "tags": ["JavaScript", "Sass", "Html", "Lighthouse"],
       "link": "https://github.com/treriwen/nina-carducci"
     },
     {
@@ -21,7 +21,7 @@
         "HoMyFood2",
         "HoMyFood3"
         ],
-      "description": "Profitez du charme de la vie parisienne dans un magnifique appartement. A 3 minutes à pied du Canl Saint Martin, vous serez proche des transports, mais également de nombreux commerces. L'appartement est tout équipé, et possède également un parking pour ceux qui souhaitent se déplacer en voiture.",
+      "description": "Projet numéro 4 du parcours intégrateur web de OpenClassrooms consistais à intégrer, en partant d'une maquette, l'interface du site d'Ohmyfood en commençant par la version mobile.",
       "tags": ["Sass", "Html", "Figma"],
       "link": "https://github.com/treriwen/Projet4OhMyFood"
     },
@@ -35,8 +35,8 @@
         "724Events2",
         "724Events3"
         ],
-      "description": "À seulement deux pas des Buttes Chaumont, venez découvrir Paris dans ce studio tout équipé. Entièrement équipé pour votre confort et élégamment décoré, il vous permettra de vivre comme un Parisien le temps de votre séjour.",
-      "tags": ["Sass", "React"],
+      "description": "Le projet 10 du parcours intégrateur web de OpenClassrooms consistais à débugger le site d'un agence événementiel, ceci ma permit d'utiliser et d'apprendre le principe et l'utilité des tests unitaires",
+      "tags": ["React"],
       "link": "https://github.com/treriwen/debug"
     },
     {
@@ -48,8 +48,7 @@
         "sophie-bluel1",
         "sophie-bluel2"
       ],
-      "description": "Venez découvrir Paris en séjournant dans ce nid douillet au coeur du 11ème. La vue sur le parc résidentiel saura vous reposer de vos longues journées de tourisme dans la capitale française. Et pour les plus fêtards d'entre vous, la rue Jean Pierre Timbaud vous permettra de découvrir la night-life parisienne à seulement 5 minutes de l'appartement.",
-      "subDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae tristique nunc. Nulla orci augue, mattis at mi ut, hendrerit gravida enim. Nulla tincidunt, orci in bibendum lacinia, justo mauris ultrices est, id semper libero orci id magna. Quisque fringilla et purus at imperdiet. In interdum turpis sapien. Proin vitae ipsum viverra nunc tempor tempus. Nulla laoreet interdum augue id mollis. Aliquam eu risus velit. In porttitor est nulla, eget ornare libero scelerisque non.",
+      "description": "Le projet 6 du parcours Intégrateur Web d'OpenClassrooms nous emmène sur la conception du site portfolio d'une architecte en utilisant JavaScript et en communiquant avec une API.",
       "tags": ["Sass", "Html", "JavaScript"],
       "link": "https://github.com/treriwen/final-shopie-portfolio"
     },
@@ -66,7 +65,7 @@
       "description": "Dungeon slayer est un projet personnel, réalisé hors formation, qui met en avant mon envie de créer des jeux vidéos depuis longtemps. Ce projet fais en python avec la biblihoteque \"Pygame\" demandais de re-créer entierement un moteur de jeu ( pour l'affichage et l'update des images, le mouvement, les collisions... ). Il ma permit à la fois de me perfectionner dans mes connaissances python mais aussi de me plonger plus précisement sur la Programmation Orienté Objet",
       "tags": ["Python", "Pygame", "Github", "GitKraken"],
       "link": "https://github.com/treriwen/Dungeon-slayer",
-      "linkPage": "https://fr.legacy.reactjs.org/docs/conditional-rendering.html"
+      "linkPage": ""
     }
   ]
   
